@@ -286,7 +286,7 @@ input::-webkit-inner-spin-button {
     --fs-xsm: 10px;
     --fs-sm: 11px;
     --fs-md: 18px;
-    --fs-lg: 15px;
+    --fs-lg: 25px;
     --fs-xl: 29px;
     --fw-md: 500;
     --fs-md-2: 24px;
@@ -313,7 +313,7 @@ input::-webkit-inner-spin-button {
     --fs-xsm: 12px;
     --fs-sm: 18px;
     --fs-md: 24px;
-    --fs-lg: 26px;
+    --fs-lg: 30px;
     --fs-xl: 54px;
   }
   .vh_60_xsm {

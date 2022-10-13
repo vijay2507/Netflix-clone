@@ -103,12 +103,12 @@ const Header = () => {
                     <Link className=" fs_xsm text-white " to="/MyList">
                       My list
                     </Link>
-                    <li className="mt-3">
-                      {" "}
-                      <Link to="/" className="text-white  fs_xsm">
-                        LOG OUT{" "}
-                      </Link>
-                    </li>
+                  </li>
+                  <li className="mt-3">
+                    {" "}
+                    <Link to="/" className="text-white  fs_xsm">
+                      LOG OUT{" "}
+                    </Link>
                   </li>
                 </ul>
               </div>
